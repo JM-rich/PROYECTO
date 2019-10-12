@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">proyJRM</string>
+    <string name="T1">Tecnologico de Estudios Superiores del Oriente del Estado de México</string>
+    <string name="T2">Evolución del iPHONE</string>
+    <string name="T3">Maciel González James Richard</string>
+    <string name="T4">Aplicciones Móviles</string>
+    <string name="grup">7S11</string>
+    <string name="Men">M   e   n   ú</string>
+    <string name="INTRODUCCION">I   n  t  r  o  d  u  c  c  i  ó  n</string>
+    <string name="acercade">El smartphone de Apple tuvo grandes cambios a lo largo de su historia, bajo la mirada de Steve Jobs y Tim Cook. Así fue el camino hasta el iPhone 11.Este iPhone rompía con lo establecido desechando los botones físicos y el stylus y lo apostaba todo por una gran pantalla -para la época- de 3,5 pulgadas y una entonces impresionante resolución de 160 ppi. Es por ello que explicaremos las principales mejoras introducidas cada año.</string>
+    <string name="Btn">INTRODUCCIÓN</string>
+    <string name="tit">iPhone 1, 2007</string>
+    <string name="tit2">iPhone 3G, 2008</string>
+    <string name="tit3">iPhone 3Gs, 2009</string>
+    <string name="tit4">iPhone 4, 2010</string>
+    <string name="tit5">iPhone 4s, 2011</string>
+    <string name="tit7">iPhone 5, 2012</string>
+    <string name="tit8">iPhone 5s y 5c, 2013</string>
+    <string name="tit9">iPhone 6 y 6 Plus, 2014</string>
+    <string name="tit10">iPhone 6s y 6s Plus, 2015</string>
+    <string name="tit12">iPhone SE, 2016</string>
+    <string name="tit13">iPhone 7, 2016</string>
+    <string name="tit14">iPhone 8, 2017</string>
+    <string name="tit15">iPhone X</string>
+    <string name="tit16">iPhone 11,iPhonePRO 11, iPhone PRO MAX 11 </string>
+    //Botones
+    <string name="BTN1">iPhone 1-iPhone 3Gs</string>
+    <string name="BTN2">iPhone 4-iPhone 5</string>
+    <string name="BTN3">iPhone 5S-6s y 6s Plus</string>
+    <string name="BTN4">iPhone SE-iPhone 7-8</string>
+    <string name="BTN5">iPhone 11-iPhone X</string>
+    // Definiciones
+    <string name="d1">Este primer iPhone estaba potenciado por iPhone OS 1 (llamado OS X durante la presentación) y soportaba aplicaciones comunes como gestos multitáctiles, correo HTML, navegador Safari y YouTube.</string>
+    <string name="d2">El iPhone 3G, el cambio más importante introducido en el iPhone durante 2008 fue la App Store, la tienda de aplicaciones desde la cual se abría la posibilidad de añadir todo tipo de funciones con aplicaciones de terceros.</string>
+    <string name="d3">El iPhone 3GS incluía una cámara de 3 megapíxeles (atrás, claro, pues no tenían cámara selfie por aquel entonces) y era capaz de grabar vídeo en resolución VGA. Llegaba también el control por voz, aunque todavía quedaban unos años para conocer a Siri.</string>
+    <string name="d4">En el iPhone 4 resolución de 640 x 960, unos 330 ppien incorporaron una cámara para selfies situada al lado del auricular y videollamadas mediante FaceTime </string>
+    <string name="d5">Iphone 4S En este caso no significaba speed sino Siri, el asistente de Apple procesador A5 y la cámara sufría una actualización importante, subiendo hasta los 8 megapíxeles, con grabación de vídeo en resolución Full HD.</string>
+    <string name="d6">Iphone 5,con un nuevo diseño de aluminio y una pantalla que subía hasta las 4 pulgadas conector Lightning, se añadía la conectividad LTE y se mejoraba la cámara de selfies hasta llegar a los 1,2 megapíxeles, con grabación de vídeo HD.</string>
+    <string name="d7">El iPhone 5S montaba el Apple A7, el primero de 64 bits de la marca, acompañado de un coprocesador de de movimiento M7. El botón de inicio perdía su dibujo y ganaba Touch ID, el sistema de reconocimiento de huellasdactilares.</string>
+    <string name="d8">Un iPhone 6 con pantalla de 4,7 pulgadas y un iPhone 6 Plus con pantalla de 5,5 pulgadas,se añadía NFC para pagos seguros mediante Touch ID, además de mejorar todos los componentes internos como procesador (ahora Apple A8) y cámaras.</string>
+    <string name="d9">Iphone 6s y 6sPlus, procesador Apple A9.La cámara para selfies sube a los más aceptables 5MP mientras que la cámara principal llega a los 12 MP con grabación de vídeo en 4K. Llegaba 3D Touch, la pantalla que siente distintos niveles de presión.</string>
+    <string name="d10">iPhone SE con pantalla de 4 pulgadas, bastante más compacto que sus hermanos.</string>
+    <string name="d11">Los iPhone 7 y iPhone 7 Plus incluían protección contra agua y polvo pero a cambio perdían el minijack. El modelo más grande incluía una cámara trasera de dos lentes y se abría oficialmente la temporada de modo retrato.</string>
+    <string name="d12">iPhone 8 sigue siendo el más pequeño de los teléfonos de alta gama de Apple, a la vez que comparte muchas de las especificaciones de sus hermanos 8 Plus y X.Vidrio en la parte trasera. Compatible con carga inalámbrica.Puede reproducir contenido HDR (Dolby Vision y HDR10)</string>
+    <string name="d13">iPhone X con su característico notch.La pantalla acababa comiéndose todo el frontal y llevándose por delante tanto el botón de inicio como Touch ID, que se vería reemplazado por Face ID, el avanzado sistema de reconocimiento facial.</string>
+    <string name="d14">iPhone 11  procesador A13 Bionic o un mejor Face ID para que el reconocimiento facial sea más rápido y fiable. Para el vídeo, el terminal permite capturar hasta 60 fps con una resolución 4K, habiendo actualizado también la cámara frontal a los 12 megapíxeles</string>
+
+    <string name="acerca">ACERCA DE !</string>
+    <string name="acercaD">>Elaborado por MACIEL GONZALEZ JAMES RICHARD 06-Octubre-2019 </string>
+    <string name="info">Versión 2.5 Objetivo: Da a conocer LA EVOLUCIÓN DEL IPHONE</string>
+
+
+    <string name="reco">I P H O N E</string>
+    <string name="recomen">iPhone es una línea de teléfonos inteligentes de alta gama diseñada y comercializada por Apple Inc. Ejecuta el sistema operativo móvil iOS, conocido hasta mediados de 2010 como "iPhone OS".El iPhone dispone de una cámara de fotos de 12 megapíxeles y un reproductor de música (equivalente al del iPod), además de software para enviar y recibir mensajes de texto y de voz. También ofrece servicios de Internet, como leer correo electrónico, cargar páginas web y conectividad por Wi-Fi.</string>
+</resources>
